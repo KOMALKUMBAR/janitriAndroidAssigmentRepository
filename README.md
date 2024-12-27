@@ -25,36 +25,6 @@ Tech Stack
     * LiveData
     * Room
     * WorkManager
-Project Structure
-
-
-
-app/
-├── data/
-│   ├── local/
-│   │   ├── dao/
-│   │   ├── entities/
-│   │   └── database/
-│   ├── remote/
-│   │   ├── api/
-│   │   └── models/
-│   └── repository/
-├── di/
-├── domain/
-│   ├── models/
-│   
-├── ui/
-│   ├── components/
-│   ├── screens/
-│   ├── theme/
-│   └── viewmodels/
-└──
-
-
-
-
-
-
 
 Getting Started
 
