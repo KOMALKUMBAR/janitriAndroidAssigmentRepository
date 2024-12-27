@@ -27,6 +27,8 @@ Tech Stack
     * WorkManager
 Project Structure
 
+
+
 app/
 ├── data/
 │   ├── local/
@@ -47,6 +49,12 @@ app/
 │   ├── theme/
 │   └── viewmodels/
 └──
+
+
+
+
+
+
 
 Getting Started
 
