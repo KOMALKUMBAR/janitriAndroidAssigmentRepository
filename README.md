@@ -71,5 +71,9 @@ Acknowledgments
 * Firebase Documentation
 
 * Screen Short
+* Firebase
 <img width="1440" alt="Screenshot 2024-12-27 at 6 50 40 AM" src="https://github.com/user-attachments/assets/86d4ddc0-d898-45dc-83f4-bf89c8c0efca" />
+Application Photo
 <img width="1440" alt="Screenshot 2024-12-27 at 6 49 13 AM" src="https://github.com/user-attachments/assets/9f5f9e24-fddf-46bc-8892-32cdc868d8f7" />
+
+<img width="1440" alt="Screenshot 2024-12-27 at 6 59 20 AM" src="https://github.com/user-attachments/assets/c7650efb-0b02-49fd-a45e-028db6ae24c3" />
