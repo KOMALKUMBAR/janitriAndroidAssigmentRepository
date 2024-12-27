@@ -59,8 +59,7 @@ Prerequisites
 Installation
 
 1. Clone the repository
-git clone[ https://github.com/yourusername/color-palette-app.git](https://github.com/KOMALKUMBAR/AssignmentJanitriAndroidiIntern.git
-](https://github.com/KOMALKUMBAR/janitriAndroidAssigmentRepository.git)
+git clone[ https://github.com/yourusername/color-palette-app.git](https://github.com/KOMALKUMBAR/janitriAndroidAssigmentRepository.git)]
 
 1. Open project in Android Studio
 2. Create a Firebase project and add the google-services.json file to the app directory
