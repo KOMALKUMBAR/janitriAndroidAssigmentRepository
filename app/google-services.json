@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "915519168823",
+    "firebase_url": "https://assignmentjanitriandroid-default-rtdb.firebaseio.com",
+    "project_id": "assignmentjanitriandroid",
+    "storage_bucket": "assignmentjanitriandroid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915519168823:android:201704cad1904d1594fab2",
+        "android_client_info": {
+          "package_name": "com.example.assignmentjanitriandroidintern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYEkvfoCJsOT_XEnMoUIYYNLLrocEHxww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
